@@ -1,5 +1,5 @@
 <script lang="ts">
-    import { base } from '$app/paths';
+	import { base } from '$app/paths';
 </script>
 
 <div class="navbar bg-neutral">

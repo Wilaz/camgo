@@ -1,6 +1,6 @@
 <script>
 	import background from '$lib/background.jpg';
-    import { base } from '$app/paths';
+	import { base } from '$app/paths';
 </script>
 
 <svelte:head>
