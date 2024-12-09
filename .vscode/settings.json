@@ -1,0 +1,15 @@
+{
+	"files.exclude": {
+		".svelte-kit": true,
+		"node_modules": true,
+		".gitignore": true,
+		".npmrc": true,
+		".prettierignore": true,
+		".prettierrc": true,
+		"bun.lockb": true,
+		"eslint.config.js": true,
+		"postcss.config.js": true,
+		"tsconfig.json": true,
+		"vite.config.ts": true
+	}
+}

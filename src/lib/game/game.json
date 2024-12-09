@@ -1,0 +1,67 @@
+{
+	"images": [
+		{
+			"title": "Stonefish scrimmage",
+			"image": "stonefish",
+			"description": "The most venomous fish in the world is the stonefish (Synanceia verrucosa), and it has a disturbing resemblance to coral-covered rocks in shallow waters.",
+			"link": "wikipedia.org/wiki/Synanceia_verrucosa",
+			"coords": [630, 100, 1060, 620]
+		},
+		{
+			"title": "Peepers",
+			"image": "owl",
+			"description": "The Eastern screech owl (Megascops asio), native to North America, is a small bird known for its trill-like calls. With a height of around 6 to 10 inches (16 to 25 cm), it comes in two colors: red and gray. These nocturnal hunters often inhabit wooded areas and are cavity nesters, using abandoned nests or tree hollows.",
+			"link": "wikipedia.org/wiki/Eastern_screech_owl",
+			"coords": [400, 300, 600, 600]
+		},
+		{
+			"title": "Flower-Flage",
+			"image": "mantis",
+			"description": "Orchid mantises (Hymenopus coronatus) look and behave like flowers. This behavior involves swaying from side to side to resemble a flower blowing in the wind. They use this technique for both hunting and hiding.",
+			"link": "wikipedia.org/wiki/Hymenopus_coronatus",
+			"coords": [700, 375, 950, 600]
+		},
+		{
+			"title": "A sandy home",
+			"image": "rattlesnake",
+			"description": "The venomous horned rattlesnake (Crotalus cerastes) is a master of disguise. Hidden deep within the sand, it waits patiently for its prey to come near before striking. It is sometimes called the sidewinder rattlesnake because it throws its body sideways across the ripples in the sand to move around very quickly.",
+			"link": "wikipedia.org/wiki/Crotalus_cerastes",
+			"coords": [600, 200, 800, 350]
+		},
+		{
+			"title": "Sticky situation",
+			"image": "caterpillar",
+			"description": "Many insects use camouflage to mimic objects or animals. Many species of caterpillar in the family Geometridae use camouflage to mimic twigs on plants. Some copy not only the shape, but also the color of a twig.",
+			"link": "wikipedia.org/wiki/Geometer_moth",
+			"coords": [250, 300, 700, 700]
+		},
+		{
+			"title": "Lichen land",
+			"image": "chameleon",
+			"description": "High-casqued chameleons (Trioceros hoehnelii) are famous for their camouflage. Their ability to change color is controlled primarily by their top skin layer, which can change its structure to manipulate how light is reflected.",
+			"link": "wikipedia.org/wiki/Trioceros_hoehnelii",
+			"coords": [1000, 400, 1200, 800]
+		},
+		{
+			"title": "Odd rock",
+			"image": "mallard",
+			"description": "Amid the rocky shore, a mother mallard (Anas platyrhynchos) and her three baby chicks are camouflaged perfectly against the terrain.",
+			"link": "wikipedia.org/wiki/Mallard",
+			"coords": [450, 450, 575, 575]
+		},
+		{
+			"title": "Touch grass",
+			"image": "bobcat",
+			"description": "Bobcats (Lynx rufus) are quiet hunters that use their dull, dense coats to blend into their surroundings before they pounce at prey.",
+			"link": "wikipedia.org/wiki/Bobcat",
+			"coords": [550, 450, 850, 600]
+		},
+		{
+			"title": "The End",
+			"image": "end",
+			"description": "",
+			"link": "",
+			"coords": [-1, -1, -1, -1]
+		}
+	]
+}
