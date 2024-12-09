@@ -1,4 +1,5 @@
 <script lang="ts">
+    import { base } from '$app/paths';
 	import { Hashtag } from 'svelte-heros-v2';
 
 	let id = $state('');
@@ -7,7 +8,7 @@
 
 	function handleSubmit() {
 		if (regex.test(id)) {
-			window.location.replace('/game/'); // + id);
+			window.location.replace(base + '/game/'); // + id);
 		}
 	}
 

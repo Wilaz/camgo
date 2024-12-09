@@ -1,5 +1,3 @@
-export const address = '127.0.0.1:88';
-
 import images from '$lib/game/game.json';
 
 import type { BoundingBox, Coordinant, GameState } from '$lib/types';
