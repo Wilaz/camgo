@@ -8,7 +8,7 @@
 
 	function handleSubmit() {
 		if (regex.test(id)) {
-			window.location.replace(`${base}/game/`); // + id);
+			window.location.replace(`${base}/game`); // / + id);
 		}
 	}
 
