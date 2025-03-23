@@ -62,7 +62,7 @@
 	{#if currentState != undefined}
 		<div class="swap swap-flip m-12 {currentState.flipped ? 'swap-active' : ''}">
 			<div class="swap-off">
-				<div class="card card-normal bg-base-200 shadow-xl w-auto">
+				<div class="card card-normal bg-base-200 w-auto shadow-xl">
 					<div class="card-body">
 						<h2 class="card-title">{currentState.title}</h2>
 					</div>
@@ -80,7 +80,7 @@
 			</div>
 
 			<div class="swap-on">
-				<div class="card card-side bg-base-200 shadow-xl w-auto">
+				<div class="card card-side bg-base-200 w-auto shadow-xl">
 					<figure>
 						<img src={images[currentState.image]} alt={currentState.image} />
 					</figure>

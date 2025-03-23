@@ -30,11 +30,11 @@
 	<meta name="description" content="Join a game" />
 </svelte:head>
 
-<div class="toast toast-center toast-middle gap-4 rounded-xl bg-base-200 p-4">
+<div class="toast toast-center toast-middle bg-base-200 gap-4 rounded-xl p-4">
 	<h1 class="text-center text-4xl">Enter game ID</h1>
 
 	<form onsubmit={handleSubmit} oninput={validate} class="flex gap-2">
-		<label class="input input-bordered flex gap-2 items-center {valid}">
+		<label class="input input-bordered flex items-center gap-2 {valid}">
 			<Hashtag />
 			<input type="text" class="grow" placeholder="###-####" bind:value={id} />
 		</label>

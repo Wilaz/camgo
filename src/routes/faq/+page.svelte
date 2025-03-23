@@ -4,9 +4,9 @@
 </svelte:head>
 
 <div class="container mx-auto px-4 py-8">
-	<h1 class="text-3xl font-bold text-center mb-8">FAQ</h1>
+	<h1 class="mb-8 text-center text-3xl font-bold">FAQ</h1>
 
-	<div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
+	<div class="grid grid-cols-1 gap-8 md:grid-cols-2 lg:grid-cols-3">
 		<div class="card bg-base-200 shadow-xl">
 			<div class="card-body">
 				<h2 class="card-title">What do I do?</h2>
