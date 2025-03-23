@@ -7,21 +7,21 @@
 	<h1 class="text-3xl font-bold text-center mb-8">FAQ</h1>
 
 	<div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
-		<div class="card bg-neutral shadow-xl">
+		<div class="card bg-base-200 shadow-xl">
 			<div class="card-body">
 				<h2 class="card-title">What do I do?</h2>
 				<p class="text-justify">You click on the hidden animal in the picture</p>
 			</div>
 		</div>
 
-		<div class="card bg-neutral shadow-xl">
+		<div class="card bg-base-200 shadow-xl">
 			<div class="card-body">
 				<h2 class="card-title">I can't see the animal?</h2>
 				<p class="text-justify">It's there, trust me</p>
 			</div>
 		</div>
 
-		<div class="card bg-neutral shadow-xl">
+		<div class="card bg-base-200 shadow-xl">
 			<div class="card-body">
 				<h2 class="card-title">The storm is coming</h2>
 				<p class="text-justify">

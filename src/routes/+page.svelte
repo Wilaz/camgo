@@ -12,13 +12,13 @@
 	class="bg-cover flex items-center justify-center text-center"
 	style="background-image: url({background});"
 >
-	<div class="hero min-h-screen bg-base-200 bg-opacity-85">
+	<div class="hero min-h-screen bg-base-100 opacity-90">
 		<div class="hero-content text-center">
 			<div class="max-w-l">
 				<h1 class="text-5xl font-bold mb-16">Welcome to Camgo!</h1>
 				<p class="mb-8">Find hidden animals in our exciting biology puzzle game.</p>
 
-				<div class="card bg-base-100 shadow-xl max-w-s mx-auto mb-8">
+				<div class="card bg-base-300 shadow-xl max-w-s mx-auto mb-8">
 					<div class="card-body items-center text-center">
 						<h2 class="card-title">Game Features</h2>
 						<ul class="list-inside list-disc mt-2">

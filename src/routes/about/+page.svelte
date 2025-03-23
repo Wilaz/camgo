@@ -7,7 +7,7 @@
 	<h1 class="text-3xl font-bold text-center mb-8">About Camgo</h1>
 
 	<div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
-		<div class="card bg-neutral shadow-xl">
+		<div class="card bg-base-200 shadow-xl">
 			<div class="card-body">
 				<h2 class="card-title">Why did you make this?</h2>
 				<p class="text-justify">
@@ -18,7 +18,7 @@
 			</div>
 		</div>
 
-		<div class="card bg-neutral shadow-xl">
+		<div class="card bg-base-200 shadow-xl">
 			<div class="card-body">
 				<h2 class="card-title">This didn't teach me shit?</h2>
 				<p class="text-justify">
@@ -28,7 +28,7 @@
 			</div>
 		</div>
 
-		<div class="card bg-neutral shadow-xl">
+		<div class="card bg-base-200 shadow-xl">
 			<div class="card-body">
 				<h2 class="card-title">I love this game!</h2>
 				<p class="text-justify">Please give me all your money 🥺</p>
